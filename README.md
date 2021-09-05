@@ -1,4 +1,4 @@
-# app_exceptions
+# app_exception
 
 ## Getting Started
 

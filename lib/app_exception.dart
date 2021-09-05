@@ -1,5 +1,5 @@
 // Copyright 2021, LTMM
-library app_exceptions;
+library app_exception;
 
 import 'package:equatable/equatable.dart';
 
