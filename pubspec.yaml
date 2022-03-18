@@ -1,6 +1,6 @@
 name: app_exception
 description: Implements Exception for creating app specific errors
-version: 0.0.2+1
+version: 0.0.2+2
 homepage: http://www.icodeforyou.com
 publish_to: 'none'
 
